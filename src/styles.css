@@ -166,7 +166,7 @@ footer a {
   }
 
   .parrot {
-    width: 350px;
+    max-width: 100%;
   }
 
   .grid {
